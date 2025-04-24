@@ -13,10 +13,12 @@ Predicting customer churn using machine learning techniques in Python.
 ![Telco Churn](https://github.com/Fatolu-peter/telco-churn-analysis/blob/main/images/telco-demo.png)
 🔗 [View Project](https://github.com/Fatolu-peter/telco-churn-analysis)
 
----    ![Churn Dashboard](images/dashboard.png)
-![Churn Screenshot](screenshots/churn-output.png)
- ![Churn Dashboard](dashboard.png)
-[![Dashboard Preview](images/dashboard.png)](images/dashboard.png)
+---  
+![Dashboard](dashboard.png)
+![Dashboard](images/dashboard.png)
+[![Dashboard](images/dashboard.png)](images/dashboard.png)
+
+ 
 ## 📊 Telco Churn Dashboard Preview
 
 ![Telco Output](images/output.png)
