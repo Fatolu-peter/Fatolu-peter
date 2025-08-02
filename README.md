@@ -1,4 +1,4 @@
- 👋 Hi, I'm Fatolu Peter Oluwadamilare
+# 👋 Hi, I'm Fatolu Peter Oluwadamilare
 
 🎯 **Data Analyst** | 🐍 Python Programmer | 🎨 Graphic Designer | 📱 App Developer | 📚 Author
 
@@ -6,43 +6,44 @@ I'm passionate about using data and design to solve problems and build useful so
 
 ---
 
- 🔥 Featured Projects
+## 🔥 Featured Projects
 
- 📊 Telco Churn Analysis
-Predicting customer churn using machine learning techniques in Python.
-![Telco Churn](https://github.com/Fatolu-peter/telco-churn-analysis/blob/main/images/telco-demo.png)
+### 📊 Telco Churn Analysis  
+Predicting customer churn using machine learning techniques in Python.  
 🔗 [View Project](https://github.com/Fatolu-peter/telco-churn-analysis)
 
----  
-![Dashboard](dashboard.png)
-![Dashboard](images/dashboard.png)
-[![Dashboard](images/dashboard.png)](images/dashboard.png)
+[![Telco Churn Dashboard](https://github.com/Fatolu-peter/telco-churn-analysis/blob/main/images/telco-demo.png)](https://github.com/Fatolu-peter/telco-churn-analysis)
 
- 
-## 📊 Telco Churn Dashboard Preview
+---
 
-![Telco Output](images/output.png)
-
-
- 🏡 House Price Analysis
-A predictive model to determine house prices based on various features.
+### 🏡 House Price Analysis  
+A predictive model to determine house prices based on various features.  
 🔗 [View Project](https://github.com/Fatolu-peter/house-price-analysis)
 
 ---
 
- 💳 Card Fraud Detection
-Using machine learning to detect fraudulent card transactions.
+### 💳 Card Fraud Detection  
+Using machine learning to detect fraudulent card transactions.  
 🔗 [View Project](https://github.com/Fatolu-peter/-edit-card-fraud-detection)
 
 ---
 
- 🧮 Kivy Calculator App
-A calculator built with Kivy and Python for mobile and desktop.
+### 🧮 Kivy Calculator App  
+A calculator built with Kivy and Python for mobile and desktop.  
 🔗 [View Project](https://github.com/Fatolu-peter/kivy-calculator-app)
 
 ---
 
- 🛠️ Tools & Technologies
+## 📊 Dashboard Gallery
+
+[![Dashboard 1](https://drive.google.com/uc?export=view&id=1Q2z-KqA18c4uMs2kDVswNm4HncwZPJTH)](https://drive.google.com/file/d/1Q2z-KqA18c4uMs2kDVswNm4HncwZPJTH/view)  
+[![Dashboard 2](https://drive.google.com/uc?export=view&id=1DO-cMSJl3leIuA2EQMiJoIUD5_hDVaWS)](https://drive.google.com/file/d/1DO-cMSJl3leIuA2EQMiJoIUD5_hDVaWS/view)  
+[![Dashboard 3](https://drive.google.com/uc?export=view&id=1MoII0Byt0-Jt4nJt-T6KeyWmkSoK2HaQ)](https://drive.google.com/file/d/1MoII0Byt0-Jt4nJt-T6KeyWmkSoK2HaQ/view)  
+[![Dashboard 4](https://drive.google.com/uc?export=view&id=1D1cnMFOU2kXy9cZiI9EX7No80VxZyxL8)](https://drive.google.com/file/d/1D1cnMFOU2kXy9cZiI9EX7No80VxZyxL8/view)
+
+---
+
+## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
@@ -55,7 +56,7 @@ A calculator built with Kivy and Python for mobile and desktop.
 
 ---
 
- 🌐 Let's Connect
+## 🌐 Let's Connect
 
 - 📍 Lagos, Nigeria  
 - 📧 [oblissman@gmail.com](mailto:oblissman@gmail.com)  
