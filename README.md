@@ -1,65 +1,130 @@
-# 👋 Hi, I'm Fatolu Peter Oluwadamilare
+# 👋 Hi, I'm Fatolu Peter Oluwadamilare  
 
-🎯 **Data Analyst** | 🐍 Python Programmer | 🎨 Graphic Designer | 📱 App Developer | 📚 Author
+🎯 **Data Analyst | Python Programmer | Power BI Developer | Software Builder**
 
-I'm passionate about using data and design to solve problems and build useful software. I create tools that simplify analysis for everyone—from beginners to experts.
+I help businesses make smarter decisions using data.  
+I specialize in transforming raw data into meaningful insights through dashboards, reports, and predictive models.
+
+I work across:
+- Business Intelligence  
+- Machine Learning  
+- Data Visualization  
+- Software Automation  
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 What I Do
+- Clean and prepare messy data  
+- Build interactive dashboards (Power BI)  
+- Perform statistical and exploratory analysis  
+- Develop predictive models  
+- Build data-driven applications  
 
-### 📊 Telco Churn Analysis  
-Predicting customer churn using machine learning techniques in Python.  
-🔗 [View Project](https://github.com/Fatolu-peter/telco-churn-analysis)
+---
 
-[![Telco Churn Dashboard](https://github.com/Fatolu-peter/telco-churn-analysis/blob/main/images/telco-demo.png)](https://github.com/Fatolu-peter/telco-churn-analysis)
+## 🧰 Tools & Technologies
+**Data & BI:**  
+Power BI, SQL, Excel, DAX, Power Query, Microsoft Fabric  
+
+**Programming:**  
+Python (Pandas, NumPy, Matplotlib, Scikit-learn), Streamlit, Kivy  
+
+**Statistics:**  
+SPSS  
+
+---
+
+## 🔥 Featured Analytics Projects
+
+### 📊 Telco Customer Churn Analysis  
+🔗 https://github.com/Fatolu-peter/telco-churn-analysis  
+
+**Objective:**  
+Predict customers likely to churn and understand key drivers of churn.
+
+**Tools:**  
+Python, Pandas, Scikit-learn, Matplotlib  
+
+**Insights:**  
+- Customers on month-to-month contracts churn more  
+- High monthly charges increase churn probability  
+- Long-term contracts reduce churn significantly  
+
+**Recommendations:**  
+- Offer incentives for long-term subscriptions  
+- Improve retention strategies for high-risk customers  
 
 ---
 
 ### 🏡 House Price Analysis  
-A predictive model to determine house prices based on various features.  
-🔗 [View Project](https://github.com/Fatolu-peter/house-price-analysis)
+🔗 https://github.com/Fatolu-peter/house-price-analysis  
+
+**Objective:**  
+Predict house prices based on property features.
+
+**Tools:**  
+Python, Pandas, Scikit-learn  
+
+**Insights:**  
+- Location and size are major price drivers  
+- Newer houses sell at higher prices  
+- Certain features significantly increase value  
+
+**Recommendations:**  
+- Focus on high-value features when developing properties  
+- Use model for competitive pricing  
 
 ---
 
 ### 💳 Card Fraud Detection  
-Using machine learning to detect fraudulent card transactions.  
-🔗 [View Project](https://github.com/Fatolu-peter/-edit-card-fraud-detection)
+🔗 https://github.com/Fatolu-peter/-edit-card-fraud-detection  
+
+**Objective:**  
+Detect fraudulent card transactions.
+
+**Tools:**  
+Python, Scikit-learn  
+
+**Insights:**  
+- Fraud transactions are rare but high impact  
+- Certain transaction patterns increase fraud risk  
+
+**Recommendations:**  
+- Implement real-time fraud alerts  
+- Monitor high-risk transaction patterns  
 
 ---
+
+## 📊 Power BI Dashboards Portfolio
+
+I build business dashboards for sales, finance, marketing, and operations.
+
+🔗 **Power BI Gallery:**  
+(Add your Fabric dashboard links here)
+
+Each dashboard demonstrates:
+- KPI design  
+- Data modeling  
+- DAX measures  
+- Business storytelling  
+
+---
+
+## 🧮 Software Projects
 
 ### 🧮 Kivy Calculator App  
-A calculator built with Kivy and Python for mobile and desktop.  
-🔗 [View Project](https://github.com/Fatolu-peter/kivy-calculator-app)
+A cross-platform calculator built using Python & Kivy.
+
+🔗 https://github.com/Fatolu-peter/chatbot  
 
 ---
 
-## 📊 Dashboard Gallery
-
-[![Dashboard 1](https://drive.google.com/uc?export=view&id=1Q2z-KqA18c4uMs2kDVswNm4HncwZPJTH)](https://drive.google.com/file/d/1Q2z-KqA18c4uMs2kDVswNm4HncwZPJTH/view)  
-[![Dashboard 2](https://drive.google.com/uc?export=view&id=1DO-cMSJl3leIuA2EQMiJoIUD5_hDVaWS)](https://drive.google.com/file/d/1DO-cMSJl3leIuA2EQMiJoIUD5_hDVaWS/view)  
-[![Dashboard 3](https://drive.google.com/uc?export=view&id=1MoII0Byt0-Jt4nJt-T6KeyWmkSoK2HaQ)](https://drive.google.com/file/d/1MoII0Byt0-Jt4nJt-T6KeyWmkSoK2HaQ/view)  
-[![Dashboard 4](https://drive.google.com/uc?export=view&id=1D1cnMFOU2kXy9cZiI9EX7No80VxZyxL8)](https://drive.google.com/file/d/1D1cnMFOU2kXy9cZiI9EX7No80VxZyxL8/view)
-
----
-
-## 🛠️ Tools & Technologies
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
-![Kivy](https://img.shields.io/badge/-Kivy-FFDD00?logo=python&logoColor=black&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
-![SPSS](https://img.shields.io/badge/-SPSS-0033A0?style=flat)
+## 🌍 Let’s Connect
+📍 Lagos, Nigeria  
+📧 oblissman@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/fatolu-peter  
+📺 YouTube: https://youtube.com/Fatolu-peter  
 
 ---
 
-## 🌐 Let's Connect
-
-- 📍 Lagos, Nigeria  
-- 📧 [oblissman@gmail.com](mailto:oblissman@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/fatolu-peter)  
-- 📺 [YouTube](https://youtube.com/Fatolu-peter)  
-- 💼 [GitHub Portfolio](https://github.com/Fatolu-peter)
+⭐ If you like my work, feel free to star my repositories!
