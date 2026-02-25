@@ -7,12 +7,27 @@
 </p>
 
 <h2 align="center">
-Data Analyst • Power BI Developer • Python Programmer • UI/UX Designer
+Senior Data Analyst • SQL Developer • AI Data Specialist • Power BI Expert
 </h2>
 
 <p align="center">
-<b>Transforming Data into Intelligent Business Solutions</b>
+<b>Transforming Raw Data into AI-Ready Business Intelligence Solutions</b>
 </p>
+
+---
+
+# ⭐ SQL & AI Portfolio
+
+🚀 View Full SQL Portfolio:
+
+https://github.com/Fatolu-peter/SQL-Data-Analytics-Projects
+
+This portfolio demonstrates real-world SQL case studies solving business problems across:
+
+• FMCG  
+• Real Estate  
+• Healthcare  
+• Financial Analytics  
 
 ---
 
@@ -20,206 +35,165 @@ Data Analyst • Power BI Developer • Python Programmer • UI/UX Designer
 
 <img align="right" src="https://github.com/Fatolu-peter/images/blob/main/78f4006a-167b-4000-b64b-f0020b5fcbdf_removalai_preview.png?raw=true" width="230"/>
 
-I am **Fatolu Peter Oluwadamilare**, a professional **Data Analyst and Software Developer** specializing in:
+I am **Fatolu Peter Oluwadamilare**, a professional:
 
-✔ Data Analytics  
-✔ Power BI Dashboards  
-✔ Machine Learning  
-✔ Business Intelligence  
-✔ UI/UX Dashboard Design  
+✔ SQL Developer  
+✔ AI Data Analyst  
+✔ Power BI Developer  
+✔ Python Developer  
 
-I transform raw datasets into **powerful business insights and dashboards.**
+I specialize in:
+
+• SQL Data Analytics  
+• AI-Ready Dataset Preparation  
+• Business Intelligence  
+• Dashboard Development  
+• Predictive Analytics  
+
+I transform raw datasets into **executive-level insights and intelligent dashboards.**
 
 ---
 
-# 🚀 What I Do
+# 🚀 Core Expertise
 
-✔ Data Cleaning  
-✔ Data Analysis  
-✔ Dashboard Development  
-✔ Machine Learning Models  
+✔ SQL Query Optimization  
+✔ Data Analysis & Exploration  
+✔ Power BI Dashboard Development  
+✔ Machine Learning Data Preparation  
 ✔ Business Intelligence Solutions  
-✔ Predictive Analytics
+✔ Data Visualization  
 
 ---
 
-# 🧰 Tools & Technologies
+# 🔥 Featured SQL Projects (NEW)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python" width="70"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="70"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="70"/>
-<img src="https://skillicons.dev/icons?i=github" width="70"/>
-<img src="https://skillicons.dev/icons?i=git" width="70"/>
-</p>
+## 🥤 Malta Guinness SQL Sales Analysis
 
-<p align="center">
-<img src="https://img.shields.io/badge/PowerBI-Expert-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-Expert-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DAX-Advanced-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-Advanced-red?style=for-the-badge"/>
-</p>
+https://github.com/Fatolu-peter/SQL-Data-Analytics-Projects/tree/main/Malta-Guinness
+
+✔ Revenue trend analysis  
+✔ KPI development  
+✔ Business performance insights  
+✔ Executive dashboard support  
+
+Skills:
+
+SQL • PostgreSQL • Data Analytics • BI
+
+---
+
+## 🏡 Real Estate SQL Market Analysis
+
+https://github.com/Fatolu-peter/SQL-Data-Analytics-Projects/tree/main/Real-Estate
+
+✔ Property revenue analysis  
+✔ Market trend insights  
+✔ Customer analytics  
+
+Skills:
+
+SQL • Window Functions • Analytics
+
+---
+
+## 🏥 Diabetes Healthcare SQL Analysis
+
+https://github.com/Fatolu-peter/SQL-Data-Analytics-Projects/tree/main/Diabetes
+
+✔ Clinical data analysis  
+✔ Patient risk insights  
+✔ Healthcare analytics  
+
+Skills:
+
+SQL • Data Cleaning • Healthcare Analytics
 
 ---
 
 # 📊 Power BI Dashboard Portfolio
 
 <details>
-<summary>Click to view dashboards</summary>
+<summary>View 18 Interactive Dashboards</summary>
 
-### Dashboard 1
 https://app.fabric.microsoft.com/links/o_emDkB2Sx
 
-### Dashboard 2
 https://app.fabric.microsoft.com/links/aVTGMqvSI5
 
-### Dashboard 3
 https://app.fabric.microsoft.com/links/gE5AgM149U
 
-### Dashboard 4
 https://app.fabric.microsoft.com/links/YlYMFYnoij
 
-### Dashboard 5
 https://app.fabric.microsoft.com/links/VRkeILcHVy
 
-### Dashboard 6
 https://app.fabric.microsoft.com/links/2jKceDhtIu
 
-### Dashboard 7
 https://app.fabric.microsoft.com/links/WXLk7XJbEQ
 
-### Dashboard 8
 https://app.fabric.microsoft.com/links/uohkfHq0JK
 
-### Dashboard 9
 https://app.fabric.microsoft.com/links/l_zU0cz3pK
 
-### Dashboard 10
 https://app.fabric.microsoft.com/links/qrI9AlvPUX
 
-### Dashboard 11
 https://app.fabric.microsoft.com/links/rhenAllhBk
 
-### Dashboard 12
 https://app.fabric.microsoft.com/links/0KagrG2Qvn
 
-### Dashboard 13
 https://app.fabric.microsoft.com/links/0MtmnP2F9u
 
-### Dashboard 14
 https://app.fabric.microsoft.com/links/XSJFLOauS1
 
-### Dashboard 15
 https://app.fabric.microsoft.com/links/wG9WmlAPsN
 
-### Dashboard 16
 https://app.fabric.microsoft.com/links/AQ8Ad2ANzG
 
-### Dashboard 17
 https://app.fabric.microsoft.com/links/IMXNVMLnzf
 
-### Dashboard 18
 https://app.fabric.microsoft.com/links/dCxQ-H0RQL
 
 </details>
 
 ---
 
-# 🔥 Featured Projects
+# 🧰 Tools & Technologies
 
-## 📊 Telco Customer Churn Analysis
-https://github.com/Fatolu-peter/telco-churn-analysis
+<p align="center">
 
-✔ Customer churn prediction  
-✔ Machine learning model  
-✔ Business insights
+Python • SQL • PostgreSQL • Power BI • Excel • Git • AI Analytics
 
----
-
-## 🏡 House Price Prediction
-https://github.com/Fatolu-peter/house-price-analysis
-
-✔ Price prediction model  
-✔ Feature analysis
+</p>
 
 ---
 
-## 💳 Fraud Detection System
-https://github.com/Fatolu-peter/-edit-card-fraud-detection
+# 💻 Machine Learning Projects
 
-✔ Fraud prediction  
-✔ Pattern detection
-
----
-
-# 💻 Software Projects
-
-## Python Calculator App
-https://github.com/Fatolu-peter/chatbot
-
-Built with:
-
-✔ Python  
-✔ Kivy
+Telco Customer Churn  
+House Price Prediction  
+Fraud Detection System  
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Fatolu-peter&show_icons=true&theme=tokyonight"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatolu-peter&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 📝 Project Slides & Insights
-
-<details>
-<summary>Click to view all slides and visuals</summary>
-
-<p align="center">
-
-<img src="https://github.com/Fatolu-peter/images/blob/main/Slide1.JPG" width="400"/>
-<br>
-<img src="https://github.com/Fatolu-peter/images/blob/main/Slide2.JPG" width="400"/>
-<br>
-<img src="https://github.com/Fatolu-peter/images/blob/main/Slide3.JPG" width="400"/>
-<br>
-<img src="https://github.com/Fatolu-peter/images/blob/main/Slide4.JPG" width="400"/>
-<br>
-<img src="https://github.com/Fatolu-peter/images/blob/main/COKE.jpg" width="400"/>
-<br>
-<img src="https://github.com/Fatolu-peter/images/blob/main/NET%20-%20Copy.jpg" width="400"/>
-<br>
-<img src="https://github.com/Fatolu-peter/images/blob/main/Screenshot%202026-01-10%20210427.jpg" width="400"/>
-<br>
-<img src="https://github.com/Fatolu-peter/images/blob/main/Screenshot%202026-01-10%20210450.jpg" width="400"/>
-<br>
-<img src="https://github.com/Fatolu-peter/images/blob/main/Screenshot%202026-01-10%20210516.jpg" width="400"/>
-<br>
-<img src="https://github.com/Fatolu-peter/images/blob/main/Screenshot%202026-02-17%20121336%20-%20Copy.jpg" width="400"/>
-<br>
-<img src="https://github.com/Fatolu-peter/images/blob/main/Screenshot%202026-02-24%20180702.jpg" width="400"/>
-<br>
-<img src="https://github.com/Fatolu-peter/images/blob/main/Screenshot%202026-02-24%20175323%20-%20Copy.jpg" width="400"/>
-
-</p>
-
-</details>
-
----
-
-# 🌍 Contact
+# 🌍 Contact Me
 
 📍 Lagos, Nigeria  
 
 📧 oblissman@gmail.com  
 
-LinkedIn: [https://linkedin.com/in/fatolu-peter](https://linkedin.com/in/fatolu-peter)  
+LinkedIn: https://linkedin.com/in/fatolu-peter  
 
-YouTube: [https://youtube.com/Fatolu-peter](https://youtube.com/Fatolu-peter)  
+GitHub: https://github.com/Fatolu-peter  
 
 ---
 
