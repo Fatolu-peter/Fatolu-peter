@@ -177,9 +177,10 @@ Built with:
 # 📝 Project Slides & Insights
 
 <details>
-<summary>Click to view slides</summary>
+<summary>Click to view all slides and visuals</summary>
 
 <p align="center">
+
 <img src="https://github.com/Fatolu-peter/images/blob/main/Slide1.JPG" width="400"/>
 <br>
 <img src="https://github.com/Fatolu-peter/images/blob/main/Slide2.JPG" width="400"/>
@@ -187,6 +188,23 @@ Built with:
 <img src="https://github.com/Fatolu-peter/images/blob/main/Slide3.JPG" width="400"/>
 <br>
 <img src="https://github.com/Fatolu-peter/images/blob/main/Slide4.JPG" width="400"/>
+<br>
+<img src="https://github.com/Fatolu-peter/images/blob/main/COKE.jpg" width="400"/>
+<br>
+<img src="https://github.com/Fatolu-peter/images/blob/main/NET%20-%20Copy.jpg" width="400"/>
+<br>
+<img src="https://github.com/Fatolu-peter/images/blob/main/Screenshot%202026-01-10%20210427.jpg" width="400"/>
+<br>
+<img src="https://github.com/Fatolu-peter/images/blob/main/Screenshot%202026-01-10%20210450.jpg" width="400"/>
+<br>
+<img src="https://github.com/Fatolu-peter/images/blob/main/Screenshot%202026-01-10%20210516.jpg" width="400"/>
+<br>
+<img src="https://github.com/Fatolu-peter/images/blob/main/Screenshot%202026-02-17%20121336%20-%20Copy.jpg" width="400"/>
+<br>
+<img src="https://github.com/Fatolu-peter/images/blob/main/Screenshot%202026-02-24%20180702.jpg" width="400"/>
+<br>
+<img src="https://github.com/Fatolu-peter/images/blob/main/Screenshot%202026-02-24%20175323%20-%20Copy.jpg" width="400"/>
+
 </p>
 
 </details>
