@@ -1,25 +1,17 @@
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Fatolu%20Peter%20Oluwadamilare&fontAlign=50&fontSize=50&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github.com/Fatolu-peter/images/blob/main/78f4006a-167b-4000-b64b-f0020b5fcbdf_removalai_preview.png?raw=true" width="240"/>
-
 </p>
 
 <h2 align="center">
-
 Data Analyst • Power BI Developer • Python Programmer • UI/UX Designer
-
 </h2>
 
 <p align="center">
-
 <b>Transforming Data into Intelligent Business Solutions</b>
-
 </p>
 
 ---
@@ -54,28 +46,27 @@ I transform raw datasets into **powerful business insights and dashboards.**
 # 🧰 Tools & Technologies
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python" width="70"/>
 <img src="https://skillicons.dev/icons?i=postgres" width="70"/>
 <img src="https://skillicons.dev/icons?i=vscode" width="70"/>
 <img src="https://skillicons.dev/icons?i=github" width="70"/>
 <img src="https://skillicons.dev/icons?i=git" width="70"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/PowerBI-Expert-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Excel-Expert-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DAX-Advanced-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Python-Advanced-red?style=for-the-badge"/>
-
 </p>
 
 ---
 
 # 📊 Power BI Dashboard Portfolio
+
+<details>
+<summary>Click to view dashboards</summary>
 
 ### Dashboard 1
 https://app.fabric.microsoft.com/links/o_emDkB2Sx
@@ -131,12 +122,13 @@ https://app.fabric.microsoft.com/links/IMXNVMLnzf
 ### Dashboard 18
 https://app.fabric.microsoft.com/links/dCxQ-H0RQL
 
+</details>
+
 ---
 
 # 🔥 Featured Projects
 
 ## 📊 Telco Customer Churn Analysis
-
 https://github.com/Fatolu-peter/telco-churn-analysis
 
 ✔ Customer churn prediction  
@@ -146,7 +138,6 @@ https://github.com/Fatolu-peter/telco-churn-analysis
 ---
 
 ## 🏡 House Price Prediction
-
 https://github.com/Fatolu-peter/house-price-analysis
 
 ✔ Price prediction model  
@@ -155,7 +146,6 @@ https://github.com/Fatolu-peter/house-price-analysis
 ---
 
 ## 💳 Fraud Detection System
-
 https://github.com/Fatolu-peter/-edit-card-fraud-detection
 
 ✔ Fraud prediction  
@@ -166,7 +156,6 @@ https://github.com/Fatolu-peter/-edit-card-fraud-detection
 # 💻 Software Projects
 
 ## Python Calculator App
-
 https://github.com/Fatolu-peter/chatbot
 
 Built with:
@@ -179,15 +168,11 @@ Built with:
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Fatolu-peter&show_icons=true&theme=tokyonight"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatolu-peter&theme=tokyonight"/>
-
 </p>
 
 ---
---- 
 
 # 📝 Project Slides & Insights
 
@@ -195,7 +180,6 @@ Built with:
 <summary>Click to view slides</summary>
 
 <p align="center">
-
 <img src="https://github.com/Fatolu-peter/images/blob/main/Slide1.JPG" width="400"/>
 <br>
 <img src="https://github.com/Fatolu-peter/images/blob/main/Slide2.JPG" width="400"/>
@@ -203,28 +187,24 @@ Built with:
 <img src="https://github.com/Fatolu-peter/images/blob/main/Slide3.JPG" width="400"/>
 <br>
 <img src="https://github.com/Fatolu-peter/images/blob/main/Slide4.JPG" width="400"/>
-
 </p>
 
 </details>
 
+---
 
 # 🌍 Contact
 
-📍 Lagos Nigeria  
+📍 Lagos, Nigeria  
 
-📧 oblissman@gmail.com
+📧 oblissman@gmail.com  
 
-LinkedIn  
-https://linkedin.com/in/fatolu-peter
+LinkedIn: [https://linkedin.com/in/fatolu-peter](https://linkedin.com/in/fatolu-peter)  
 
-YouTube  
-https://youtube.com/Fatolu-peter
+YouTube: [https://youtube.com/Fatolu-peter](https://youtube.com/Fatolu-peter)  
 
 ---
 
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,100:2c5364"/>
-
 </p>
