@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/Fatolu-peter/images/blob/main/511bf87b-90b4-46ea-b8e4-45c1e4d5476f_removalai_preview.png" width="240"/>
+<img src="https://github.com/Fatolu-peter/images/blob/main/78f4006a-167b-4000-b64b-f0020b5fcbdf_removalai_preview.png?raw=true" width="240"/>
 </p>
 
 <h2 align="center">
@@ -18,7 +18,7 @@ Data Analyst • Power BI Developer • Python Programmer • UI/UX Designer
 
 # 👋 About Me
 
-<img align="right" src="https://github.com/Fatolu-peter/images/blob/main/511bf87b-90b4-46ea-b8e4-45c1e4d5476f_removalai_preview.png" width="230"/>
+<img align="right" src="https://github.com/Fatolu-peter/images/blob/main/78f4006a-167b-4000-b64b-f0020b5fcbdf_removalai_preview.png?raw=true" width="230"/>
 
 I am **Fatolu Peter Oluwadamilare**, a professional **Data Analyst and Software Developer** specializing in:
 
