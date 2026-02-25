@@ -7,169 +7,200 @@
 </p>
 
 <h2 align="center">
-Senior Data Analyst • SQL Developer • AI Data Specialist • Power BI Expert
+SQL Data Engineer • AI Data Analyst • Power BI Developer • Python Developer
 </h2>
 
 <p align="center">
-<b>Transforming Raw Data into AI-Ready Business Intelligence Solutions</b>
+<b>Building Scalable Data Pipelines, ETL Systems, and Executive Dashboards</b>
 </p>
-
----
-
-# ⭐ SQL & AI Portfolio
-
-🚀 View Full SQL Portfolio:
-
-https://github.com/Fatolu-peter/SQL-Data-Analytics-Projects
-
-This portfolio demonstrates real-world SQL case studies solving business problems across:
-
-• FMCG  
-• Real Estate  
-• Healthcare  
-• Financial Analytics  
 
 ---
 
 # 👋 About Me
 
-<img align="right" src="https://github.com/Fatolu-peter/images/blob/main/78f4006a-167b-4000-b64b-f0020b5fcbdf_removalai_preview.png?raw=true" width="230"/>
-
 I am **Fatolu Peter Oluwadamilare**, a professional:
 
-✔ SQL Developer  
-✔ AI Data Analyst  
-✔ Power BI Developer  
-✔ Python Developer  
+- SQL Data Engineer  
+- AI Data Analyst  
+- Power BI Developer  
+- Python Developer  
 
-I specialize in:
+I specialize in building:
 
-• SQL Data Analytics  
-• AI-Ready Dataset Preparation  
-• Business Intelligence  
-• Dashboard Development  
-• Predictive Analytics  
+✔ ETL Pipelines  
+✔ Automated Data Workflows  
+✔ Data Quality Systems  
+✔ Query Optimization Solutions  
+✔ Executive Power BI Dashboards  
 
-I transform raw datasets into **executive-level insights and intelligent dashboards.**
-
----
-
-# 🚀 Core Expertise
-
-✔ SQL Query Optimization  
-✔ Data Analysis & Exploration  
-✔ Power BI Dashboard Development  
-✔ Machine Learning Data Preparation  
-✔ Business Intelligence Solutions  
-✔ Data Visualization  
+I transform raw data into **production-ready analytics and AI-ready datasets.**
 
 ---
 
-# 🔥 Featured SQL Projects (NEW)
+# 🚀 Featured: SQL Data Engineering Portfolio
 
-## 🥤 Malta Guinness SQL Sales Analysis
+## Full Portfolio
 
-https://github.com/Fatolu-peter/SQL-Data-Analytics-Projects/tree/main/Malta-Guinness
+https://github.com/Fatolu-peter/SQL-Data-Engineering-Portfolio
 
-✔ Revenue trend analysis  
-✔ KPI development  
-✔ Business performance insights  
-✔ Executive dashboard support  
+---
+
+# ⚙️ Data Engineering Projects That Sell
+
+These are production-level SQL Engineering projects:
+
+---
+
+## 🔄 ETL Pipeline Project
 
 Skills:
 
-SQL • PostgreSQL • Data Analytics • BI
+- Extract Transform Load
+- Data Cleaning
+- Data Transformation
+- Analytics Table Creation
+
+Business Value:
+
+Built complete pipeline from raw data to analytics-ready tables.
+
+Tools:
+
+SQL • PostgreSQL
 
 ---
 
-## 🏡 Real Estate SQL Market Analysis
-
-https://github.com/Fatolu-peter/SQL-Data-Analytics-Projects/tree/main/Real-Estate
-
-✔ Property revenue analysis  
-✔ Market trend insights  
-✔ Customer analytics  
+## ⚡ Workflow Automation Project
 
 Skills:
 
-SQL • Window Functions • Analytics
+- Automated KPI pipelines
+- Dashboard data workflows
+- Monthly reporting automation
+
+Business Value:
+
+Automated business reporting system.
 
 ---
 
-## 🏥 Diabetes Healthcare SQL Analysis
-
-https://github.com/Fatolu-peter/SQL-Data-Analytics-Projects/tree/main/Diabetes
-
-✔ Clinical data analysis  
-✔ Patient risk insights  
-✔ Healthcare analytics  
+## 🛡 Data Quality & Integrity Framework
 
 Skills:
 
-SQL • Data Cleaning • Healthcare Analytics
+- Data validation
+- Duplicate detection
+- Data cleaning
+- Integrity enforcement
+
+Business Value:
+
+Ensured reliable, production-ready datasets.
 
 ---
 
-# 📊 Power BI Dashboard Portfolio
+## 🚀 Query Optimization Project
 
-<details>
-<summary>View 18 Interactive Dashboards</summary>
+Skills:
 
-https://app.fabric.microsoft.com/links/o_emDkB2Sx
+- Query performance tuning
+- Index optimization
+- CTE optimization
+- Large dataset performance improvement
 
-https://app.fabric.microsoft.com/links/aVTGMqvSI5
+Business Value:
 
-https://app.fabric.microsoft.com/links/gE5AgM149U
-
-https://app.fabric.microsoft.com/links/YlYMFYnoij
-
-https://app.fabric.microsoft.com/links/VRkeILcHVy
-
-https://app.fabric.microsoft.com/links/2jKceDhtIu
-
-https://app.fabric.microsoft.com/links/WXLk7XJbEQ
-
-https://app.fabric.microsoft.com/links/uohkfHq0JK
-
-https://app.fabric.microsoft.com/links/l_zU0cz3pK
-
-https://app.fabric.microsoft.com/links/qrI9AlvPUX
-
-https://app.fabric.microsoft.com/links/rhenAllhBk
-
-https://app.fabric.microsoft.com/links/0KagrG2Qvn
-
-https://app.fabric.microsoft.com/links/0MtmnP2F9u
-
-https://app.fabric.microsoft.com/links/XSJFLOauS1
-
-https://app.fabric.microsoft.com/links/wG9WmlAPsN
-
-https://app.fabric.microsoft.com/links/AQ8Ad2ANzG
-
-https://app.fabric.microsoft.com/links/IMXNVMLnzf
-
-https://app.fabric.microsoft.com/links/dCxQ-H0RQL
-
-</details>
+Improved database performance and scalability.
 
 ---
 
-# 🧰 Tools & Technologies
+# 🧠 AI-Ready SQL Analytics Projects
 
-<p align="center">
+Projects include:
 
-Python • SQL • PostgreSQL • Power BI • Excel • Git • AI Analytics
+- Malta Guinness SQL Analysis
+- Real Estate SQL Analytics
+- Healthcare SQL Analysis
 
-</p>
+Skills:
+
+SQL • Data Modeling • AI Dataset Preparation
 
 ---
 
-# 💻 Machine Learning Projects
+# 📊 Power BI Executive Dashboard Portfolio
 
-Telco Customer Churn  
-House Price Prediction  
-Fraud Detection System  
+These dashboards demonstrate executive-level analytics and business intelligence.
+
+---
+
+## Featured Dashboards
+
+Fintech Dashboard  
+https://app.fabric.microsoft.com/links/o_emDkB2Sx?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Banking Dashboard  
+https://app.fabric.microsoft.com/links/aVTGMqvSI5?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Sales Dashboard  
+https://app.fabric.microsoft.com/links/gE5AgM149U?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Revenue Dashboard  
+https://app.fabric.microsoft.com/links/YlYMFYnoij?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Customer Dashboard  
+https://app.fabric.microsoft.com/links/VRkeILcHVy?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Financial Dashboard  
+https://app.fabric.microsoft.com/links/2jKceDhtIu?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Executive KPI Dashboard  
+https://app.fabric.microsoft.com/links/WXLk7XJbEQ?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Customer Segmentation  
+https://app.fabric.microsoft.com/links/uohkfHq0JK?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Business Intelligence Dashboard  
+https://app.fabric.microsoft.com/links/l_zU0cz3pK?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Operations Dashboard  
+https://app.fabric.microsoft.com/links/qrI9AlvPUX?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Healthcare Dashboard  
+https://app.fabric.microsoft.com/links/rhenAllhBk?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Sales Trends  
+https://app.fabric.microsoft.com/links/0KagrG2Qvn?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Profit Dashboard  
+https://app.fabric.microsoft.com/links/0MtmnP2F9u?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Market Dashboard  
+https://app.fabric.microsoft.com/links/XSJFLOauS1?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Customer Insights  
+https://app.fabric.microsoft.com/links/wG9WmlAPsN?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Forecast Dashboard  
+https://app.fabric.microsoft.com/links/AQ8Ad2ANzG?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Executive Dashboard  
+https://app.fabric.microsoft.com/links/IMXNVMLnzf?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+Enterprise Dashboard  
+https://app.fabric.microsoft.com/links/dCxQ-H0RQL?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+
+---
+
+# 🧰 Technical Skills
+
+SQL  
+PostgreSQL  
+Power BI  
+Python  
+ETL Pipelines  
+Data Engineering  
+AI Data Preparation  
 
 ---
 
@@ -185,15 +216,17 @@ Fraud Detection System
 
 ---
 
-# 🌍 Contact Me
+# 🌍 Contact
 
-📍 Lagos, Nigeria  
+Location: Lagos, Nigeria
 
-📧 oblissman@gmail.com  
+Email: oblissman@gmail.com
 
-LinkedIn: https://linkedin.com/in/fatolu-peter  
+LinkedIn:  
+https://linkedin.com/in/fatolu-peter
 
-GitHub: https://github.com/Fatolu-peter  
+GitHub:  
+https://github.com/Fatolu-peter
 
 ---
 
