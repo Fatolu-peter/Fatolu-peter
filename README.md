@@ -1,160 +1,207 @@
-Fatolu Peter Oluwadamilare
-Data Analyst | Python Developer | Power BI Specialist | Software Builder
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Fatolu%20Peter%20Portfolio&fontAlign=50&fontSize=40&color=0:0d1117,100:1f6feb"/> </p>
-💼 Professional Profile
+<p align="center">
 
-I am a Data Analyst and Software Developer focused on transforming raw data into actionable business insights.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Fatolu%20Peter%20Oluwadamilare&fontAlign=50&fontSize=45&color=0:0d1117,100:1f6feb&fontColor=ffffff"/>
 
-I design:
+</p>
 
-✔ Interactive Dashboards
-✔ Machine Learning Models
-✔ Business Reports
-✔ Data Applications
+<p align="center">
 
-My goal is helping organizations make smarter data-driven decisions.
+<img src="images/profile.png" width="220"/>
 
-🧰 Tools & Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=python" width="60"/> <img src="https://skillicons.dev/icons?i=postgres" width="60"/> <img src="https://skillicons.dev/icons?i=excel" width="60"/> <img src="https://skillicons.dev/icons?i=powerbi" width="60"/> <img src="https://skillicons.dev/icons?i=vscode" width="60"/> <img src="https://skillicons.dev/icons?i=github" width="60"/> <img src="https://skillicons.dev/icons?i=git" width="60"/> <img src="https://skillicons.dev/icons?i=anaconda" width="60"/> </p>
-Technologies
+</p>
 
-Data Analytics
+<h2 align="center">
 
-Power BI
+Data Analyst • Power BI Developer • Python Programmer • UI/UX Designer
 
-SQL
+</h2>
 
-Excel
+<p align="center">
 
-DAX
+Transforming Data into Business Intelligence Solutions
 
-Power Query
+</p>
 
-Microsoft Fabric
+---
 
-Programming
+# 👋 About Me
 
-Python
+<img align="right" src="images/profile.png" width="230"/>
 
-Pandas
+I am a **Data Analyst and Software Developer** focused on transforming raw data into actionable insights.
 
-NumPy
+I specialize in building:
 
-Matplotlib
+✔ Interactive Dashboards  
+✔ Machine Learning Models  
+✔ Data Applications  
+✔ Business Reports  
 
-Scikit-Learn
+I help organizations make **smart data-driven decisions.**
 
-Streamlit
+---
 
-Kivy
+# 🚀 What I Do
 
-Statistics
+✔ Data Cleaning and Preparation  
+✔ Dashboard Development  
+✔ Predictive Analytics  
+✔ Machine Learning Models  
+✔ Business Intelligence Solutions  
+✔ UI/UX Dashboard Design
 
-SPSS
+---
 
-🚀 Featured Analytics Projects
-📊 Telco Customer Churn Analysis
+# 🧰 Tools & Technologies
 
-🔗 https://github.com/Fatolu-peter/telco-churn-analysis
+<p align="center">
 
-Objective
+<img src="https://skillicons.dev/icons?i=python" width="70"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="70"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="70"/>
+<img src="https://skillicons.dev/icons?i=github" width="70"/>
+<img src="https://skillicons.dev/icons?i=git" width="70"/>
 
-Predict customers likely to churn.
+</p>
 
-Tools
+<p align="center">
 
-Python • Pandas • Machine Learning
+<img src="https://img.shields.io/badge/PowerBI-Expert-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-Expert-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-Advanced-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-Advanced-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MachineLearning-Professional-purple?style=for-the-badge"/>
 
-Key Insights
+</p>
 
-✔ Month-to-month customers churn more
-✔ High charges increase churn
-✔ Long contracts reduce churn
+---
 
-Recommendations
+# 💻 Portfolio Preview
 
-✔ Offer long-term discounts
+<p align="center">
+
+<img src="images/portfolio.png" width="900"/>
+
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+---
+
+## 📊 Telco Customer Churn Analysis
+
+https://github.com/Fatolu-peter/telco-churn-analysis
+
+### Insights
+
+✔ Month-to-month contracts churn more  
+✔ High monthly charges increase churn  
+✔ Long-term contracts reduce churn
+
+### Recommendation
+
+✔ Offer long-term discounts  
 ✔ Improve retention programs
 
-🏡 House Price Prediction
+---
 
-🔗 https://github.com/Fatolu-peter/house-price-analysis
+## 🏡 House Price Prediction
 
-Objective
+https://github.com/Fatolu-peter/house-price-analysis
 
-Predict house prices.
+### Insights
 
-Insights
-
-✔ Size strongly affects price
-✔ Location increases value
+✔ Size impacts pricing  
+✔ Location increases value  
 ✔ New houses sell higher
 
-💳 Fraud Detection System
+---
 
-🔗 https://github.com/Fatolu-peter/-edit-card-fraud-detection
+## 💳 Fraud Detection System
 
-Objective
+https://github.com/Fatolu-peter/-edit-card-fraud-detection
 
-Detect fraudulent transactions.
+### Insights
 
-Insights
+✔ Fraud is rare but costly  
+✔ Patterns detect fraud
 
-✔ Fraud is rare but expensive
-✔ Patterns identify fraud
+---
 
-📊 Power BI Dashboard Portfolio
-📈 Live Dashboards
+# 📊 Power BI Dashboard Gallery
 
-Your dashboards demonstrate:
+---
 
-✔ KPI Development
-✔ Data Modeling
-✔ Business Insights
-✔ Executive Reporting
+## 📊 Sales Dashboard
 
-📊 Dashboard Screenshots
+![Dashboard](images/dash1.png)
 
-Create a folder:
+https://app.fabric.microsoft.com/links/o_emDkB2Sx
 
-images/
+---
 
-Upload images:
+## 📊 Churn Dashboard
 
-dash1.png
-dash2.png
-dash3.png
-📊 Sales Dashboard
+![Dashboard](images/dash2.png)
 
-🔗 https://app.fabric.microsoft.com/links/o_emDkB2Sx
+https://app.fabric.microsoft.com/links/aVTGMqvSI5
 
-📊 Churn Dashboard
+---
 
-🔗 https://app.fabric.microsoft.com/links/aVTGMqvSI5
+## 📊 Spotify Dashboard
 
-📊 Spotify Dashboard
+![Dashboard](images/dash3.png)
 
-🔗 https://app.fabric.microsoft.com/links/gE5AgM149U
+https://app.fabric.microsoft.com/links/gE5AgM149U
 
-💻 Software Projects
-🧮 Python Calculator
+---
 
-🔗 https://github.com/Fatolu-peter/chatbot
+# 💻 Software Projects
 
-Built with:
+---
 
-✔ Python
+## 🧮 Python Calculator App
+
+https://github.com/Fatolu-peter/chatbot
+
+Built using:
+
+✔ Python  
 ✔ Kivy
 
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fatolu-peter&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatolu-peter&theme=tokyonight"/> </p>
-🌍 Contact
+---
 
-📍 Lagos Nigeria
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fatolu-peter&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatolu-peter&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌍 Contact
+
+📍 Lagos Nigeria  
+
 📧 oblissman@gmail.com
 
-LinkedIn
+LinkedIn  
 https://linkedin.com/in/fatolu-peter
 
-YouTube
+YouTube  
 https://youtube.com/Fatolu-peter
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:1f6feb"/>
+
+</p>
