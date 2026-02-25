@@ -11,184 +11,133 @@ SQL Data Engineer • AI Data Analyst • Power BI Developer • Python Develope
 </h2>
 
 <p align="center">
-<b>Building Scalable Data Pipelines, ETL Systems, and Executive Dashboards</b>
+<b>Building Production-Ready Data Pipelines, SQL Analytics, and Executive Dashboards</b>
 </p>
 
 ---
 
-# 👋 About Me
+# 🚀 Featured SQL Portfolio
 
-I am **Fatolu Peter Oluwadamilare**, a professional:
+## ⭐ Main SQL Repository
 
-- SQL Data Engineer  
-- AI Data Analyst  
-- Power BI Developer  
-- Python Developer  
+👉 https://github.com/Fatolu-peter/SQL-Data-Analytics-Projects
 
-I specialize in building:
+This repository contains real-world SQL case studies including:
 
-✔ ETL Pipelines  
-✔ Automated Data Workflows  
-✔ Data Quality Systems  
-✔ Query Optimization Solutions  
-✔ Executive Power BI Dashboards  
-
-I transform raw data into **production-ready analytics and AI-ready datasets.**
+- Malta Guinness Sales Analysis
+- Real Estate Analytics
+- Healthcare Analytics
+- Netflix SQL Analysis
+- Spotify SQL Analysis
 
 ---
 
-# 🚀 Featured: SQL Data Engineering Portfolio
+# ⚙️ SQL Data Engineering Skills Demonstrated
 
-## Full Portfolio
-
-https://github.com/Fatolu-peter/SQL-Data-Engineering-Portfolio
+These are the exact projects recruiters look for:
 
 ---
 
-# ⚙️ Data Engineering Projects That Sell
+## 🔄 ETL – Extract Transform Load
 
-These are production-level SQL Engineering projects:
+✔ Raw Data Cleaning  
+✔ Data Transformation  
+✔ Analytics Table Creation  
 
----
+Example:
 
-## 🔄 ETL Pipeline Project
-
-Skills:
-
-- Extract Transform Load
-- Data Cleaning
-- Data Transformation
-- Analytics Table Creation
-
-Business Value:
-
-Built complete pipeline from raw data to analytics-ready tables.
-
-Tools:
-
-SQL • PostgreSQL
+Malta Guinness SQL Project
 
 ---
 
-## ⚡ Workflow Automation Project
+## ⚡ Workflow Development
 
-Skills:
+✔ KPI Calculation Pipelines  
+✔ Automated SQL Reporting  
 
-- Automated KPI pipelines
-- Dashboard data workflows
-- Monthly reporting automation
+Example:
 
-Business Value:
-
-Automated business reporting system.
+Netflix SQL Project
 
 ---
 
-## 🛡 Data Quality & Integrity Framework
+## 🛡 Data Quality & Integrity
 
-Skills:
+✔ Data Validation  
+✔ Duplicate Detection  
+✔ Data Cleaning  
 
-- Data validation
-- Duplicate detection
-- Data cleaning
-- Integrity enforcement
+Example:
 
-Business Value:
-
-Ensured reliable, production-ready datasets.
+Healthcare SQL Project
 
 ---
 
-## 🚀 Query Optimization Project
+## 🚀 Query Optimization
 
-Skills:
+✔ CTE Optimization  
+✔ Window Functions  
+✔ Query Performance Improvement  
 
-- Query performance tuning
-- Index optimization
-- CTE optimization
-- Large dataset performance improvement
+Example:
 
-Business Value:
-
-Improved database performance and scalability.
-
----
-
-# 🧠 AI-Ready SQL Analytics Projects
-
-Projects include:
-
-- Malta Guinness SQL Analysis
-- Real Estate SQL Analytics
-- Healthcare SQL Analysis
-
-Skills:
-
-SQL • Data Modeling • AI Dataset Preparation
+Spotify SQL Project
 
 ---
 
 # 📊 Power BI Executive Dashboard Portfolio
 
-These dashboards demonstrate executive-level analytics and business intelligence.
+These dashboards demonstrate executive-level analytics.
 
 ---
 
-## Featured Dashboards
+## 💳 Fintech Dashboard
 
-Fintech Dashboard  
 https://app.fabric.microsoft.com/links/o_emDkB2Sx?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
 
-Banking Dashboard  
+---
+
+## 🏦 Banking Dashboard
+
 https://app.fabric.microsoft.com/links/aVTGMqvSI5?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
 
-Sales Dashboard  
+---
+
+## 📈 Sales Dashboard
+
 https://app.fabric.microsoft.com/links/gE5AgM149U?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
 
-Revenue Dashboard  
+---
+
+## 👥 Customer Dashboard
+
 https://app.fabric.microsoft.com/links/YlYMFYnoij?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
 
-Customer Dashboard  
+---
+
+## 💰 Financial Dashboard
+
 https://app.fabric.microsoft.com/links/VRkeILcHVy?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
 
-Financial Dashboard  
-https://app.fabric.microsoft.com/links/2jKceDhtIu?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+---
 
-Executive KPI Dashboard  
-https://app.fabric.microsoft.com/links/WXLk7XJbEQ?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+## 📊 View All 18 Dashboards
 
-Customer Segmentation  
-https://app.fabric.microsoft.com/links/uohkfHq0JK?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+https://app.fabric.microsoft.com/
 
-Business Intelligence Dashboard  
-https://app.fabric.microsoft.com/links/l_zU0cz3pK?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+---
 
-Operations Dashboard  
-https://app.fabric.microsoft.com/links/qrI9AlvPUX?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+# 🧠 AI & Analytics Projects
 
-Healthcare Dashboard  
-https://app.fabric.microsoft.com/links/rhenAllhBk?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+These SQL projects prepare datasets for:
 
-Sales Trends  
-https://app.fabric.microsoft.com/links/0KagrG2Qvn?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+- Machine Learning
+- Predictive Analytics
+- Business Intelligence
 
-Profit Dashboard  
-https://app.fabric.microsoft.com/links/0MtmnP2F9u?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+Repository:
 
-Market Dashboard  
-https://app.fabric.microsoft.com/links/XSJFLOauS1?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
-
-Customer Insights  
-https://app.fabric.microsoft.com/links/wG9WmlAPsN?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
-
-Forecast Dashboard  
-https://app.fabric.microsoft.com/links/AQ8Ad2ANzG?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
-
-Executive Dashboard  
-https://app.fabric.microsoft.com/links/IMXNVMLnzf?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
-
-Enterprise Dashboard  
-https://app.fabric.microsoft.com/links/dCxQ-H0RQL?ctid=ca019890-0515-4533-8b8f-d4bdb16a837f&pbi_source=linkShare
+👉 https://github.com/Fatolu-peter/SQL-Data-Analytics-Projects
 
 ---
 
@@ -200,7 +149,7 @@ Power BI
 Python  
 ETL Pipelines  
 Data Engineering  
-AI Data Preparation  
+Data Analytics  
 
 ---
 
@@ -216,17 +165,25 @@ AI Data Preparation
 
 ---
 
+# 👤 About Me
+
+Fatolu Peter Oluwadamilare
+
+SQL Developer | Data Engineer | AI Data Analyst
+
+---
+
 # 🌍 Contact
 
-Location: Lagos, Nigeria
+📍 Lagos, Nigeria  
 
-Email: oblissman@gmail.com
+📧 oblissman@gmail.com  
 
 LinkedIn:  
-https://linkedin.com/in/fatolu-peter
+https://linkedin.com/in/fatolu-peter  
 
 GitHub:  
-https://github.com/Fatolu-peter
+https://github.com/Fatolu-peter  
 
 ---
 
