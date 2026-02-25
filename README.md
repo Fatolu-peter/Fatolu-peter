@@ -126,43 +126,58 @@ A cross-platform calculator built using Python & Kivy.
 📺 YouTube: https://youtube.com/Fatolu-peter  
 
 
-## 📊 Power BI Live Dashboards (Click to View)
+## 📊 Power BI Live Dashboards (Click Image to View)
 
-[![Dashboard 1](./images/dashboard1.png)](https://app.fabric.microsoft.com/links/o_emDkB2Sx)
+### Dashboard 1
+[![Dashboard 1](./images/dash1.png)](https://app.fabric.microsoft.com/links/o_emDkB2Sx)
 
-[![Dashboard 2](./images/dashboard2.png)](https://app.fabric.microsoft.com/links/aVTGMqvSI5)
+### Dashboard 2
+[![Dashboard 2](./images/dash2.png)](https://app.fabric.microsoft.com/links/aVTGMqvSI5)
 
-[![Dashboard 3](./images/dashboard3.png)](https://app.fabric.microsoft.com/links/gE5AgM149U)
+### Dashboard 3
+[![Dashboard 3](./images/dash3.png)](https://app.fabric.microsoft.com/links/gE5AgM149U)
 
-[![Dashboard 4](./images/dashboard4.png)](https://app.fabric.microsoft.com/links/YlYMFYnoij)
+### Dashboard 4
+[![Dashboard 4](./images/dash4.png)](https://app.fabric.microsoft.com/links/YlYMFYnoij)
 
-[![Dashboard 5](./images/dashboard5.png)](https://app.fabric.microsoft.com/links/VRkeILcHVy)
+### Dashboard 5
+[![Dashboard 5](./images/dash5.png)](https://app.fabric.microsoft.com/links/VRkeILcHVy)
 
-[![Dashboard 6](./images/dashboard6.png)](https://app.fabric.microsoft.com/links/2jKceDhtIu)
+### Dashboard 6
+[![Dashboard 6](./images/dash6.png)](https://app.fabric.microsoft.com/links/2jKceDhtIu)
 
-[![Dashboard 7](./images/dashboard7.png)](https://app.fabric.microsoft.com/links/WXLk7XJbEQ)
+### Dashboard 7
+[![Dashboard 7](./images/dash7.png)](https://app.fabric.microsoft.com/links/WXLk7XJbEQ)
 
-[![Dashboard 8](./images/dashboard8.png)](https://app.fabric.microsoft.com/links/uohkfHq0JK)
+### Dashboard 8
+[![Dashboard 8](./images/dash8.png)](https://app.fabric.microsoft.com/links/uohkfHq0JK)
 
-[![Dashboard 9](./images/dashboard9.png)](https://app.fabric.microsoft.com/links/l_zU0cz3pK)
+### Dashboard 9
+[![Dashboard 9](./images/dash9.png)](https://app.fabric.microsoft.com/links/l_zU0cz3pK)
 
-[![Dashboard 10](./images/dashboard10.png)](https://app.fabric.microsoft.com/links/qrI9AlvPUX)
+### Dashboard 10
+[![Dashboard 10](./images/dash10.png)](https://app.fabric.microsoft.com/links/qrI9AlvPUX)
 
-[![Dashboard 11](./images/dashboard11.png)](https://app.fabric.microsoft.com/links/rhenAllhBk)
+### Dashboard 11
+[![Dashboard 11](./images/dash11.png)](https://app.fabric.microsoft.com/links/rhenAllhBk)
 
-[![Dashboard 12](./images/dashboard12.png)](https://app.fabric.microsoft.com/links/0KagrG2Qvn)
+### Dashboard 12
+[![Dashboard 12](./images/dash12.png)](https://app.fabric.microsoft.com/links/0KagrG2Qvn)
 
-[![Dashboard 13](./images/dashboard13.png)](https://app.fabric.microsoft.com/links/0MtmnP2F9u)
+### Dashboard 13
+[![Dashboard 13](./images/dash13.png)](https://app.fabric.microsoft.com/links/0MtmnP2F9u)
 
-[![Dashboard 14](./images/dashboard14.png)](https://app.fabric.microsoft.com/links/XSJFLOauS1)
+### Dashboard 14
+[![Dashboard 14](./images/dash14.png)](https://app.fabric.microsoft.com/links/XSJFLOauS1)
 
-[![Dashboard 15](./images/dashboard15.png)](https://app.fabric.microsoft.com/links/wG9WmlAPsN)
+### Dashboard 15
+[![Dashboard 15](./images/dash15.png)](https://app.fabric.microsoft.com/links/wG9WmlAPsN)
 
-[![Dashboard 16](./images/dashboard16.png)](https://app.fabric.microsoft.com/links/AQ8Ad2ANzG)
+### Dashboard 16
+[![Dashboard 16](./images/dash16.png)](https://app.fabric.microsoft.com/links/AQ8Ad2ANzG)
 
-[![Dashboard 17](./images/dashboard17.png)](https://app.fabric.microsoft.com/links/IMXNVMLnzf)
+### Dashboard 17
+[![Dashboard 17](./images/dash17.png)](https://app.fabric.microsoft.com/links/IMXNVMLnzf)
 
-[![Dashboard 18](./images/dashboard18.png)](https://app.fabric.microsoft.com/links/dCxQ-H0RQL)
----
-
-⭐ If you like my work, feel free to star my repositories!
+### Dashboard 18
+[![Dashboard 18](./images/dash18.png)](https://app.fabric.microsoft.com/links/dCxQ-H0RQL)
