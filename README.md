@@ -1,294 +1,160 @@
-# 👋 Hi, I'm Fatolu Peter Oluwadamilare  
+Fatolu Peter Oluwadamilare
+Data Analyst | Python Developer | Power BI Specialist | Software Builder
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Fatolu%20Peter%20Portfolio&fontAlign=50&fontSize=40&color=0:0d1117,100:1f6feb"/> </p>
+💼 Professional Profile
 
-🎯 **Data Analyst | Python Programmer | Power BI Developer | Software Builder**
+I am a Data Analyst and Software Developer focused on transforming raw data into actionable business insights.
 
-I help businesses make smarter decisions using data.  
-I specialize in transforming raw data into meaningful insights through dashboards, reports, and predictive models.
+I design:
 
-I work across:
-- Business Intelligence  
-- Machine Learning  
-- Data Visualization  
-- Software Automation  
+✔ Interactive Dashboards
+✔ Machine Learning Models
+✔ Business Reports
+✔ Data Applications
 
----
+My goal is helping organizations make smarter data-driven decisions.
 
-## 🚀 What I Do
-- Clean and prepare messy data  
-- Build interactive dashboards (Power BI)  
-- Perform statistical and exploratory analysis  
-- Develop predictive models  
-- Build data-driven applications  
+🧰 Tools & Technologies
+<p align="center"> <img src="https://skillicons.dev/icons?i=python" width="60"/> <img src="https://skillicons.dev/icons?i=postgres" width="60"/> <img src="https://skillicons.dev/icons?i=excel" width="60"/> <img src="https://skillicons.dev/icons?i=powerbi" width="60"/> <img src="https://skillicons.dev/icons?i=vscode" width="60"/> <img src="https://skillicons.dev/icons?i=github" width="60"/> <img src="https://skillicons.dev/icons?i=git" width="60"/> <img src="https://skillicons.dev/icons?i=anaconda" width="60"/> </p>
+Technologies
 
----
+Data Analytics
 
-## 🧰 Tools & Technologies
-**Data & BI:**  
-Power BI, SQL, Excel, DAX, Power Query, Microsoft Fabric  
+Power BI
 
-**Programming:**  
-Python (Pandas, NumPy, Matplotlib, Scikit-learn), Streamlit, Kivy  
+SQL
 
-**Statistics:**  
-SPSS  
+Excel
 
----
+DAX
 
-## 🔥 Featured Analytics Projects
+Power Query
 
-### 📊 Telco Customer Churn Analysis  
-🔗 https://github.com/Fatolu-peter/telco-churn-analysis  
+Microsoft Fabric
 
-**Objective:**  
-Predict customers likely to churn and understand key drivers of churn.
+Programming
 
-**Tools:**  
-Python, Pandas, Scikit-learn, Matplotlib  
+Python
 
-**Insights:**  
-- Customers on month-to-month contracts churn more  
-- High monthly charges increase churn probability  
-- Long-term contracts reduce churn significantly  
+Pandas
 
-**Recommendations:**  
-- Offer incentives for long-term subscriptions  
-- Improve retention strategies for high-risk customers  
+NumPy
 
----
+Matplotlib
 
-### 🏡 House Price Analysis  
-🔗 https://github.com/Fatolu-peter/house-price-analysis  
+Scikit-Learn
 
-**Objective:**  
-Predict house prices based on property features.
+Streamlit
 
-**Tools:**  
-Python, Pandas, Scikit-learn  
+Kivy
 
-**Insights:**  
-- Location and size are major price drivers  
-- Newer houses sell at higher prices  
-- Certain features significantly increase value  
+Statistics
 
-**Recommendations:**  
-- Focus on high-value features when developing properties  
-- Use model for competitive pricing  
+SPSS
 
----
+🚀 Featured Analytics Projects
+📊 Telco Customer Churn Analysis
 
-### 💳 Card Fraud Detection  
-🔗 https://github.com/Fatolu-peter/-edit-card-fraud-detection  
+🔗 https://github.com/Fatolu-peter/telco-churn-analysis
 
-**Objective:**  
-Detect fraudulent card transactions.
+Objective
 
-**Tools:**  
-Python, Scikit-learn  
+Predict customers likely to churn.
 
-**Insights:**  
-- Fraud transactions are rare but high impact  
-- Certain transaction patterns increase fraud risk  
+Tools
 
-**Recommendations:**  
-- Implement real-time fraud alerts  
-- Monitor high-risk transaction patterns  
+Python • Pandas • Machine Learning
 
----
+Key Insights
 
-## 📊 Power BI Dashboards Portfolio
+✔ Month-to-month customers churn more
+✔ High charges increase churn
+✔ Long contracts reduce churn
 
-I build business dashboards for sales, finance, marketing, and operations.
+Recommendations
 
-🔗 **Power BI Gallery:**  
-(Add your Fabric dashboard links here)
+✔ Offer long-term discounts
+✔ Improve retention programs
 
-Each dashboard demonstrates:
-- KPI design  
-- Data modeling  
-- DAX measures  
-- Business storytelling  
+🏡 House Price Prediction
 
----
+🔗 https://github.com/Fatolu-peter/house-price-analysis
 
-## 🧮 Software Projects
+Objective
 
-### 🧮 Kivy Calculator App  
-A cross-platform calculator built using Python & Kivy.
+Predict house prices.
 
-🔗 https://github.com/Fatolu-peter/chatbot  
+Insights
 
----
+✔ Size strongly affects price
+✔ Location increases value
+✔ New houses sell higher
 
-## 🌍 Let’s Connect
-📍 Lagos, Nigeria  
-📧 oblissman@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/fatolu-peter  
-📺 YouTube: https://youtube.com/Fatolu-peter  
+💳 Fraud Detection System
 
+🔗 https://github.com/Fatolu-peter/-edit-card-fraud-detection
 
+Objective
 
----
+Detect fraudulent transactions.
 
-## 📊 Power BI Dashboards (Manual Image Upload)
+Insights
 
----
+✔ Fraud is rare but expensive
+✔ Patterns identify fraud
 
-### 1️⃣ Sales Performance Dashboard
-**Insight:** Comprehensive view of monthly and regional sales, highlighting top-performing products, seasonal trends, and revenue growth patterns.  
-**Recommendation:** Allocate resources to high-performing regions, target campaigns during peak months, and optimize stock levels for underperforming regions.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/o_emDkB2Sx)  
-**Screenshot:**  
-![Upload your image for Dashboard 1](./images/dash1.png)
+📊 Power BI Dashboard Portfolio
+📈 Live Dashboards
 
----
+Your dashboards demonstrate:
 
-### 2️⃣ Customer Churn Analysis Dashboard
-**Insight:** Tracks churn patterns by product, region, and service tier, highlighting areas with high attrition.  
-**Recommendation:** Implement retention strategies, loyalty programs, and monitor churn metrics to reduce customer attrition.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/aVTGMqvSI5)  
-**Screenshot:**  
-![Upload your image for Dashboard 2](./images/dash2.png)
+✔ KPI Development
+✔ Data Modeling
+✔ Business Insights
+✔ Executive Reporting
 
----
+📊 Dashboard Screenshots
 
-### 3️⃣ Spotify Streaming Insights Dashboard
-**Insight:** Analyzes trending songs, playlists, and user engagement patterns, identifying content that drives retention.  
-**Recommendation:** Promote high-engagement content, schedule releases during peak engagement periods, and boost subscriber growth.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/gE5AgM149U)  
-**Screenshot:**  
-![Upload your image for Dashboard 3](./images/dash3.png)
+Create a folder:
 
----
+images/
 
-### 4️⃣ Dashboard 4
-**Insight:** Provides a detailed overview of platform usage and user activity trends to spot engagement patterns.  
-**Recommendation:** Optimize content strategy and marketing efforts based on usage trends and engagement hotspots.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/YlYMFYnoij)  
-**Screenshot:**  
-![Upload your image for Dashboard 4](./images/dash4.png)
+Upload images:
 
----
+dash1.png
+dash2.png
+dash3.png
+📊 Sales Dashboard
 
-### 5️⃣ Dashboard 5
-**Insight:** Highlights revenue by product line and region, showing seasonal performance and growth areas.  
-**Recommendation:** Focus campaigns on high-growth products and investigate low-performing segments for improvement.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/VRkeILcHVy)  
-**Screenshot:**  
-![Upload your image for Dashboard 5](./images/dash5.png)
+🔗 https://app.fabric.microsoft.com/links/o_emDkB2Sx
 
----
+📊 Churn Dashboard
 
-### 6️⃣ Dashboard 6
-**Insight:** Visualizes operational efficiency metrics, including process bottlenecks and resource utilization.  
-**Recommendation:** Optimize processes in low-efficiency areas and allocate resources to improve overall operational performance.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/2jKceDhtIu)  
-**Screenshot:**  
-![Upload your image for Dashboard 6](./images/dash6.png)
+🔗 https://app.fabric.microsoft.com/links/aVTGMqvSI5
 
----
+📊 Spotify Dashboard
 
-### 7️⃣ Dashboard 7
-**Insight:** Tracks marketing KPIs across channels to understand campaign effectiveness.  
-**Recommendation:** Adjust campaigns based on high-performing channels and reduce spend on low-performing ones.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/WXLk7XJbEQ)  
-**Screenshot:**  
-![Upload your image for Dashboard 7](./images/dash7.png)
-
----
-
-### 8️⃣ Dashboard 8
-**Insight:** Provides a detailed breakdown of customer demographics and engagement metrics.  
-**Recommendation:** Tailor campaigns and product offerings to high-value customer segments for maximum ROI.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/uohkfHq0JK)  
-**Screenshot:**  
-![Upload your image for Dashboard 8](./images/dash8.png)
-
----
-
-### 9️⃣ Dashboard 9
-**Insight:** Highlights sales trends, customer behavior, and conversion rates across regions.  
-**Recommendation:** Focus on strategies that improve conversion in underperforming regions and capitalize on high-performing regions.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/l_zU0cz3pK)  
-**Screenshot:**  
-![Upload your image for Dashboard 9](./images/dash9.png)
-
----
-
-### 10️⃣ Dashboard 10
-**Insight:** Analyzes customer support metrics including response times and ticket resolution.  
-**Recommendation:** Improve support efficiency by addressing slow-response areas and monitoring satisfaction trends.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/qrI9AlvPUX)  
-**Screenshot:**  
-![Upload your image for Dashboard 10](./images/dash10.png)
-
----
-
-### 11️⃣ Dashboard 11
-**Insight:** Provides financial KPIs, profit margins, and expense tracking for operational decisions.  
-**Recommendation:** Identify high-cost areas and optimize resource allocation to improve profit margins.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/rhenAllhBk)  
-**Screenshot:**  
-![Upload your image for Dashboard 11](./images/dash11.png)
-
----
-
-### 12️⃣ Dashboard 12
-**Insight:** Tracks inventory levels and supply chain efficiency for better stock management.  
-**Recommendation:** Rebalance inventory to avoid stockouts or overstock, and streamline supply chain processes.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/0KagrG2Qvn)  
-**Screenshot:**  
-![Upload your image for Dashboard 12](./images/dash12.png)
-
----
-
-### 13️⃣ Dashboard 13
-**Insight:** Monitors project KPIs, deadlines, and task completion rates.  
-**Recommendation:** Reassign resources to delayed tasks and ensure critical milestones are met on time.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/0MtmnP2F9u)  
-**Screenshot:**  
-![Upload your image for Dashboard 13](./images/dash13.png)
-
----
-
-### 14️⃣ Dashboard 14
-**Insight:** Provides real-time monitoring of website traffic, user engagement, and bounce rates.  
-**Recommendation:** Optimize high-bounce pages and enhance content for better engagement.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/XSJFLOauS1)  
-**Screenshot:**  
-![Upload your image for Dashboard 14](./images/dash14.png)
-
----
-
-### 15️⃣ Dashboard 15
-**Insight:** Tracks social media campaign performance and audience growth metrics.  
-**Recommendation:** Focus on campaigns with highest engagement and iterate content strategies based on analytics.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/wG9WmlAPsN)  
-**Screenshot:**  
-![Upload your image for Dashboard 15](./images/dash15.png)
-
----
-
-### 16️⃣ Dashboard 16
-**Insight:** Provides detailed revenue forecast and budget tracking for upcoming quarters.  
-**Recommendation:** Adjust budget allocations based on forecast gaps and invest in high-growth opportunities.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/AQ8Ad2ANzG)  
-**Screenshot:**  
-![Upload your image for Dashboard 16](./images/dash16.png)
-
----
-
-### 17️⃣ Dashboard 17
-**Insight:** Monitors employee performance and HR metrics for organizational effectiveness.  
-**Recommendation:** Recognize top performers and support underperforming teams with training and mentorship.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/IMXNVMLnzf)  
-**Screenshot:**  
-![Upload your image for Dashboard 17](./images/dash17.png)
-
----
-
-### 18️⃣ Dashboard 18
-**Insight:** Tracks KPI alignment across business units and operational efficiency.  
-**Recommendation:** Address misaligned KPIs, optimize processes, and improve cross-department collaboration.  
-**Live Dashboard:** [Open Dashboard](https://app.fabric.microsoft.com/links/dCxQ-H0RQL)  
-**Screenshot:**  
-![Upload your image for Dashboard 18](./images/dash18.png)
+🔗 https://app.fabric.microsoft.com/links/gE5AgM149U
+
+💻 Software Projects
+🧮 Python Calculator
+
+🔗 https://github.com/Fatolu-peter/chatbot
+
+Built with:
+
+✔ Python
+✔ Kivy
+
+📊 GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fatolu-peter&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatolu-peter&theme=tokyonight"/> </p>
+🌍 Contact
+
+📍 Lagos Nigeria
+📧 oblissman@gmail.com
+
+LinkedIn
+https://linkedin.com/in/fatolu-peter
+
+YouTube
+https://youtube.com/Fatolu-peter
