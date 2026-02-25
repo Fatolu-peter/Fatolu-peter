@@ -187,6 +187,27 @@ Built with:
 </p>
 
 ---
+--- 
+
+# 📝 Project Slides & Insights
+
+<details>
+<summary>Click to view slides</summary>
+
+<p align="center">
+
+<img src="https://github.com/Fatolu-peter/images/blob/main/Slide1.JPG" width="400"/>
+<br>
+<img src="https://github.com/Fatolu-peter/images/blob/main/Slide2.JPG" width="400"/>
+<br>
+<img src="https://github.com/Fatolu-peter/images/blob/main/Slide3.JPG" width="400"/>
+<br>
+<img src="https://github.com/Fatolu-peter/images/blob/main/Slide4.JPG" width="400"/>
+
+</p>
+
+</details>
+
 
 # 🌍 Contact
 
