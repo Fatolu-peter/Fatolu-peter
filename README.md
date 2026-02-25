@@ -126,58 +126,48 @@ A cross-platform calculator built using Python & Kivy.
 📺 YouTube: https://youtube.com/Fatolu-peter  
 
 
-## 📊 Power BI Live Dashboards (Click Image to View)
+### 1️⃣ Sales Performance Dashboard
 
-### Dashboard 1
-[![Dashboard 1](./images/dash1.png)](https://app.fabric.microsoft.com/links/o_emDkB2Sx)
+**Insight:**  
+This dashboard provides a comprehensive view of monthly and regional sales performance across all product categories. Key trends indicate which products are consistently driving revenue, seasonal spikes, and underperforming regions. It allows stakeholders to understand the distribution of sales, identify anomalies, and track progress against targets.
 
-### Dashboard 2
-[![Dashboard 2](./images/dash2.png)](https://app.fabric.microsoft.com/links/aVTGMqvSI5)
+**Recommendation:**  
+Focus marketing and inventory efforts on high-performing regions and products while investigating the causes of low sales in underperforming areas. Implement targeted campaigns during seasonal spikes to maximize revenue, and optimize stock levels to reduce overstock and stockouts.
 
-### Dashboard 3
-[![Dashboard 3](./images/dash3.png)](https://app.fabric.microsoft.com/links/gE5AgM149U)
+[Live Dashboard](https://app.fabric.microsoft.com/links/o_emDkB2Sx)
 
-### Dashboard 4
-[![Dashboard 4](./images/dash4.png)](https://app.fabric.microsoft.com/links/YlYMFYnoij)
+**Screenshot:**  
+<!-- Upload image here -->
+![Dashboard](./images/dash1.png)
 
-### Dashboard 5
-[![Dashboard 5](./images/dash5.png)](https://app.fabric.microsoft.com/links/VRkeILcHVy)
+---
 
-### Dashboard 6
-[![Dashboard 6](./images/dash6.png)](https://app.fabric.microsoft.com/links/2jKceDhtIu)
+### 2️⃣ Customer Churn Analysis Dashboard
 
-### Dashboard 7
-[![Dashboard 7](./images/dash7.png)](https://app.fabric.microsoft.com/links/WXLk7XJbEQ)
+**Insight:**  
+This dashboard visualizes customer churn trends by product, service tier, and region. It highlights segments with higher churn rates and tracks churn patterns over time. The visualization allows for easy identification of patterns related to subscription duration, service issues, or customer demographics.
 
-### Dashboard 8
-[![Dashboard 8](./images/dash8.png)](https://app.fabric.microsoft.com/links/uohkfHq0JK)
+**Recommendation:**  
+Develop retention strategies for high-churn segments by offering personalized promotions or improving service quality. Monitor churn over time to evaluate the effectiveness of retention programs and adjust resources to proactively reduce customer attrition.
 
-### Dashboard 9
-[![Dashboard 9](./images/dash9.png)](https://app.fabric.microsoft.com/links/l_zU0cz3pK)
+[Live Dashboard](https://app.fabric.microsoft.com/links/aVTGMqvSI5)
 
-### Dashboard 10
-[![Dashboard 10](./images/dash10.png)](https://app.fabric.microsoft.com/links/qrI9AlvPUX)
+**Screenshot:**  
+<!-- Upload image here -->
+![Dashboard](./images/dash2.png)
 
-### Dashboard 11
-[![Dashboard 11](./images/dash11.png)](https://app.fabric.microsoft.com/links/rhenAllhBk)
+---
 
-### Dashboard 12
-[![Dashboard 12](./images/dash12.png)](https://app.fabric.microsoft.com/links/0KagrG2Qvn)
+### 3️⃣ Spotify Streaming Insights Dashboard
 
-### Dashboard 13
-[![Dashboard 13](./images/dash13.png)](https://app.fabric.microsoft.com/links/0MtmnP2F9u)
+**Insight:**  
+This dashboard analyzes user behavior on the Spotify platform, including most-streamed songs, trending playlists, and user engagement patterns. It uncovers audience preferences and seasonal trends, providing insights into which content drives higher engagement and retention.
 
-### Dashboard 14
-[![Dashboard 14](./images/dash14.png)](https://app.fabric.microsoft.com/links/XSJFLOauS1)
+**Recommendation:**  
+Curate playlists based on high-engagement tracks, schedule releases around peak engagement periods, and design targeted marketing campaigns to promote content that resonates most with users. Leverage these insights to boost subscriber growth and engagement metrics.
 
-### Dashboard 15
-[![Dashboard 15](./images/dash15.png)](https://app.fabric.microsoft.com/links/wG9WmlAPsN)
+[Live Dashboard](https://app.fabric.microsoft.com/links/gE5AgM149U)
 
-### Dashboard 16
-[![Dashboard 16](./images/dash16.png)](https://app.fabric.microsoft.com/links/AQ8Ad2ANzG)
-
-### Dashboard 17
-[![Dashboard 17](./images/dash17.png)](https://app.fabric.microsoft.com/links/IMXNVMLnzf)
-
-### Dashboard 18
-[![Dashboard 18](./images/dash18.png)](https://app.fabric.microsoft.com/links/dCxQ-H0RQL)
+**Screenshot:**  
+<!-- Upload image here -->
+![Dashboard](./images/dash3.png)
